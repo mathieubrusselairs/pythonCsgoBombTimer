@@ -11,3 +11,5 @@ This will allow Counter-Strike to send you gamestate updates.
 Make sure you have the latest version of Python installed (developped on Python 3.7.1).
 Navigate to the directory of the program and run the main.py program with Python in the cmd.
 - C:\Users\User...> **py main.py**
+
+![Alt Text](https://i.gyazo.com/500676aea17c67d181acb798cb8c5eb3.gif)
