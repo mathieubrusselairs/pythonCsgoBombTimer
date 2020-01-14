@@ -1,6 +1,6 @@
 # pythonCsgoBombTimer
-Small python scripts to check the bomb timer. Definitely not complete, unless you want to test an unfinished product, DO NOT USE.
-Currently only tested on a Windows machine.
+Small python scripts to check the bomb timer. Somewhat complete, all feedback welcome.
+Currently only tested on a Windows machine. I presume this will not work on MacOS as it should.
 
 ## How to use
 
