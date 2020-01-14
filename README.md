@@ -12,4 +12,4 @@ Make sure you have the latest version of Python installed (developped on Python 
 Navigate to the directory of the program and run the main.py program with Python in the cmd.
 - C:\Users\User...> **py main.py**
 
-![Alt Text](https://imgur.com/a/kaLOmkv)
+![Alt Text](https://i.imgur.com/FMQIoSb.png?1)
